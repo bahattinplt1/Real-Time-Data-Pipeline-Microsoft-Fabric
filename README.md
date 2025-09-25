@@ -89,6 +89,10 @@ Dankzij deze architectuur konden we **datakwaliteit, traceerbaarheid en prestati
 
 ---
 
+Business Requester: We’RHERE IT Academy  
+
+---
+
 ##  Visualisaties
 
 ![Slayt7](https://github.com/user-attachments/assets/2f6d2c55-9a27-4880-a58b-59a5b55853b9)
