@@ -91,15 +91,7 @@ Dankzij deze architectuur konden we **datakwaliteit, traceerbaarheid en prestati
 
 ##  Visualisaties
 
-![Slayt1](https://github.com/user-attachments/assets/676db315-6fcc-49f4-996b-228930328a6b)
-![Slayt2](https://github.com/user-attachments/assets/5fee51fc-e8b7-4d2e-9d50-3fe184b3c056)
-![Slayt3](https://github.com/user-attachments/assets/940e52b5-b8d6-436c-a1b7-3b01a106a309)
-![Slayt4](https://github.com/user-attachments/assets/23d4b92a-e494-4c98-aea0-8c5ca03538c6)
-![Slayt5](https://github.com/user-attachments/assets/f4ffb662-814f-4831-b807-52c820116216)
-![Slayt6](https://github.com/user-attachments/assets/7053acd3-e4ad-4f30-9fcf-c059f58f1f0b)
 ![Slayt7](https://github.com/user-attachments/assets/2f6d2c55-9a27-4880-a58b-59a5b55853b9)
-![Slayt8](https://github.com/user-attachments/assets/de944e56-3ce8-49f1-b54a-52a7190c7642)
-![Slayt9](https://github.com/user-attachments/assets/1531420d-ca3c-4b3a-b516-7e187d506e4f)
 ![Slayt10](https://github.com/user-attachments/assets/7cb5c2e1-bced-46e3-ba3e-ece2cca9788b)
 ![Slayt11](https://github.com/user-attachments/assets/1d49686e-9a84-48cf-ab78-74d35307ba70)
 ![Slayt12](https://github.com/user-attachments/assets/e815ec18-5b86-4837-90c1-8793f266bc8e)
